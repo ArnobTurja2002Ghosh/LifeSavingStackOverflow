@@ -7,3 +7,5 @@
 [cv2.interpolateCornersCharuco](https://stackoverflow.com/questions/73829313/opencv-interpolatecornerscharuco-giving-bad-estimation-when-board-is-partially)
 
 [Meaning of the retval return value in cv2.CalibrateCamera](https://stackoverflow.com/questions/29628445/meaning-of-the-retval-return-value-in-cv2-calibratecamera)
+
+[interpreting the reprojection error from camera calibration](https://stackoverflow.com/questions/43878684/interpreting-the-reprojection-error-from-camera-calibration)
