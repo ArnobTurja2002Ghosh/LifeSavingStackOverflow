@@ -14,3 +14,4 @@
 [Python return value vastly different from "reprojection error"](https://answers.opencv.org/question/216925/python-ret-value-vastly-different-from-reprojection-error/)
   - Not really a StackOverflow thread but has a link to a Stack Overflow thread
   - Explains the confusion about reprojection error due to bad documentation of OpenCV.
+  - The bad documentation is also referred to [here](https://forum.opencv.org/t/false-computation-of-reprojection-error-in-python-camera-calibration-tutorial/7981/5)
