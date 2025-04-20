@@ -9,3 +9,8 @@
 [Meaning of the retval return value in cv2.CalibrateCamera](https://stackoverflow.com/questions/29628445/meaning-of-the-retval-return-value-in-cv2-calibratecamera)
 
 [interpreting the reprojection error from camera calibration](https://stackoverflow.com/questions/43878684/interpreting-the-reprojection-error-from-camera-calibration)
+  - Says that OpenCV uses RMS for reprojection error
+
+[Python return value vastly different from "reprojection error"](https://answers.opencv.org/question/216925/python-ret-value-vastly-different-from-reprojection-error/)
+  - Not really a StackOverflow thread but has a link to a Stack Overflow thread
+  - Explains the confusion about reprojection error due to bad documentation of OpenCV.
