@@ -15,3 +15,5 @@
   - Not really a StackOverflow thread but has a link to a Stack Overflow thread
   - Explains the confusion about reprojection error due to bad documentation of OpenCV.
   - The bad documentation is also referred to [here](https://forum.opencv.org/t/false-computation-of-reprojection-error-in-python-camera-calibration-tutorial/7981/5)
+
+[How to calculate Field of View of the camera from camera intrinsic matrix](https://stackoverflow.com/questions/39992968/how-to-calculate-field-of-view-of-the-camera-from-camera-intrinsic-matrix)
