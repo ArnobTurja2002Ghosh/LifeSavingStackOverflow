@@ -17,3 +17,4 @@
   - The bad documentation is also referred to [here](https://forum.opencv.org/t/false-computation-of-reprojection-error-in-python-camera-calibration-tutorial/7981/5)
 
 [How to calculate Field of View of the camera from camera intrinsic matrix](https://stackoverflow.com/questions/39992968/how-to-calculate-field-of-view-of-the-camera-from-camera-intrinsic-matrix)
+[sign of k1 and k2 of lens radial distortion](https://stackoverflow.com/questions/45038476/sign-of-k1-and-k2-of-lens-radial-distortion)
